@@ -1,0 +1,3 @@
+[submodule "WindowsSourceCode"]
+	path = WindowsSourceCode
+	url = https://github.com/bertaye/WindowsBluetoothConnection.git
